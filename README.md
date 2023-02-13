@@ -1,0 +1,2 @@
+# Flutter_Gallary_App
+ The primary goal of this project was to put the "flutter staggered grid view" dependency and all of the grid styles it provides to users through their paces. I've included a custom bottom navigation bar from the previous POS Ticketing App that makes use of the Flutte svg and Google fonts dependencies. I intend to continue working on the project and eventually turn it into a mini-Pintrest or a small gallary app.
